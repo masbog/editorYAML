@@ -1,0 +1,240 @@
+TEditorYAML
+v7
+r0
+t328109686.724446
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Info.plist EditorYAML-Info.plist
+cPBXCp build/Debug/EditorYAML.app/Contents/Frameworks/YAML.framework /Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework
+cCopyStringsFile /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Volumes/DATA/XCode_Project/EditorYAML/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch.pth EditorYAML_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/main.o /Volumes/DATA/XCode_Project/EditorYAML/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAMLAppDelegate.o /Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/MacOS/EditorYAML normal x86_64
+cTouch /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.h
+c000000004DDE56410000000000000137
+t1306416705
+s311
+i<Cocoa/Cocoa.h>
+
+N/Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m
+c000000004DDE5641000000000000016F
+t1306416705
+s367
+i"EditorYAMLAppDelegate.h"
+
+N/Volumes/DATA/XCode_Project/EditorYAML/EditorYAML_Prefix.pch
+c000000004DDE56410000000000000097
+t1306416705
+s151
+i<Cocoa/Cocoa.h>
+
+N/Volumes/DATA/XCode_Project/EditorYAML/English.lproj/InfoPlist.strings
+c000000004DDE5641000000000000002D
+t1306416705
+s45
+
+N/Volumes/DATA/XCode_Project/EditorYAML/English.lproj/MainMenu.xib
+c000000004DDE5641000000000002BB8C
+t1306416705
+s179084
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app
+t1306416886
+s102
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Frameworks/YAML.framework
+t1306416879
+s204
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Info.plist
+t1306416879
+s895
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/MacOS/EditorYAML
+t1306416886
+s14688
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/PkgInfo
+t1306416879
+s8
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306416881
+s92
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306416881
+s34433
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAML.LinkFileList
+c000000004DDE56EF00000000000000F5
+t1306416879
+s245
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAMLAppDelegate.o
+t1306416885
+s18132
+
+N/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/main.o
+t1306416885
+s2424
+
+N/Volumes/DATA/XCode_Project/EditorYAML/main.m
+c000000004DDE564100000000000000F3
+t1306416705
+s243
+i<Cocoa/Cocoa.h>
+
+N/Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework
+c000000004DDDFA7100000000000000CC
+t1306393201
+s204
+
+N/Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework/YAML
+c000000004DDDFA700000000000046098
+t1306393200
+s286872
+
+N/var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-fsrpivqktjvpilblkxoxivivuzvu/EditorYAML_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch.pth
+t1306416885
+s9005484
+
+N/var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-heeasgtywqldpdepysoosclztgvy/EditorYAML_Prefix.pch.pth
+t2
+s0
+
+NEditorYAML-Info.plist
+c000000004DDE564100000000000003EA
+t1306416705
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328109678#328109679#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAMLAppDelegate.o /Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAMLAppDelegate.o /Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s328109685.388657
+e328109685.750732
+r1
+xCompileC
+xbuild/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAMLAppDelegate.o
+x/Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@70"Compile /Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m328109685#328109685#0(0"0(0#0#62"/Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m8623908000#1672"    cd /Volumes/DATA/XCode_Project/EditorYAML    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-generated-files.hmap -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-own-target-headers.hmap -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-all-target-headers.hmap -iquote /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-project-headers.hmap -F/Volumes/DATA/XCode_Project/EditorYAML/build/Debug -F/Volumes/DATA/XCode_Project/EditorYAML/../YAML/mirek-YAML.framework-c18a78b/build/Release -I/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/include -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/DerivedSources/x86_64 -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch -c /Volumes/DATA/XCode_Project/EditorYAML/EditorYAMLAppDelegate.m -o /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAMLAppDelegate.o0#
+
+CCompileC build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/main.o /Volumes/DATA/XCode_Project/EditorYAML/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/main.o /Volumes/DATA/XCode_Project/EditorYAML/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s328109685.364350
+e328109685.731943
+r1
+xCompileC
+xbuild/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/main.o
+x/Volumes/DATA/XCode_Project/EditorYAML/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@53"Compile /Volumes/DATA/XCode_Project/EditorYAML/main.m328109685#328109685#0(0"0(0#0#45"/Volumes/DATA/XCode_Project/EditorYAML/main.m8624363872#1638"    cd /Volumes/DATA/XCode_Project/EditorYAML    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-generated-files.hmap -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-own-target-headers.hmap -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-all-target-headers.hmap -iquote /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-project-headers.hmap -F/Volumes/DATA/XCode_Project/EditorYAML/build/Debug -F/Volumes/DATA/XCode_Project/EditorYAML/../YAML/mirek-YAML.framework-c18a78b/build/Release -I/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/include -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/DerivedSources/x86_64 -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch -c /Volumes/DATA/XCode_Project/EditorYAML/main.m -o /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Volumes/DATA/XCode_Project/EditorYAML/English.lproj/MainMenu.xib
+s328109679.321664
+e328109681.874230
+r1
+xCompileXIB
+x/Volumes/DATA/XCode_Project/EditorYAML/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328109679#328109681#0(0"0(0#0#65"/Volumes/DATA/XCode_Project/EditorYAML/English.lproj/MainMenu.xib8623836672#367"    cd /Volumes/DATA/XCode_Project/EditorYAML    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj/MainMenu.nib /Volumes/DATA/XCode_Project/EditorYAML/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328109679.320806
+e328109681.269367
+r1
+xCopyStringsFile
+x/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328109679#328109681#0(0"0(0#0#70"/Volumes/DATA/XCode_Project/EditorYAML/English.lproj/InfoPlist.strings8623844128#368"    cd /Volumes/DATA/XCode_Project/EditorYAML    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Resources/English.lproj0#
+
+CLd /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/MacOS/EditorYAML normal x86_64
+s328109685.750827
+e328109686.702174
+r1
+xLd
+x/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/MacOS/EditorYAML
+xnormal
+xx86_64
+lSLF07#2@96"Link /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/MacOS/EditorYAML328109685#328109686#0(0"0(0#0#0"8618994528#715"    cd /Volumes/DATA/XCode_Project/EditorYAML    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Volumes/DATA/XCode_Project/EditorYAML/build/Debug -F/Volumes/DATA/XCode_Project/EditorYAML/build/Debug -F/Volumes/DATA/XCode_Project/EditorYAML/../YAML/mirek-YAML.framework-c18a78b/build/Release -filelist /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/Objects-normal/x86_64/EditorYAML.LinkFileList -Xlinker -rpath -Xlinker @loader_path/../Frameworks -mmacosx-version-min=10.6 -framework Cocoa -framework YAML -o /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/MacOS/EditorYAML0#
+
+CPBXCp build/Debug/EditorYAML.app/Contents/Frameworks/YAML.framework /Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework
+s328109679.119695
+e328109679.320707
+r1
+xPBXCp
+xbuild/Debug/EditorYAML.app/Contents/Frameworks/YAML.framework
+x/Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework
+lSLF07#2@95"Copy /Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework328109679#328109679#0(0"0(0#0#90"/Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework8624363680#385"    cd /Volumes/DATA/XCode_Project/EditorYAML    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Volumes/DATA/XCode_Project/YAML/mirek-YAML.framework-c18a78b/build/Release/YAML.framework /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Info.plist EditorYAML-Info.plist
+s328109679.098059
+e328109679.119586
+r1
+xProcessInfoPlistFile
+x/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Info.plist
+xEditorYAML-Info.plist
+lSLF07#2@29"Process EditorYAML-Info.plist328109679#328109679#0(0"0(0#0#60"/Volumes/DATA/XCode_Project/EditorYAML/EditorYAML-Info.plist32651548276555844#319"    cd /Volumes/DATA/XCode_Project/EditorYAML    builtin-infoPlistUtility EditorYAML-Info.plist -genpkginfo /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-fsrpivqktjvpilblkxoxivivuzvu/EditorYAML_Prefix.pch.gch EditorYAML_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch.pth EditorYAML_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s328109681.874385
+e328109685.364204
+r1
+xProcessPCH
+x/var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch.pth
+xEditorYAML_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@32"Precompile EditorYAML_Prefix.pch328109681#328109685#0(0"0(0#0#60"/Volumes/DATA/XCode_Project/EditorYAML/EditorYAML_Prefix.pch8617934304#1541"    cd /Volumes/DATA/XCode_Project/EditorYAML    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-generated-files.hmap -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-own-target-headers.hmap -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-all-target-headers.hmap -iquote /Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/EditorYAML-project-headers.hmap -F/Volumes/DATA/XCode_Project/EditorYAML/build/Debug -F/Volumes/DATA/XCode_Project/EditorYAML/../YAML/mirek-YAML.framework-c18a78b/build/Release -I/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/include -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/DerivedSources/x86_64 -I/Volumes/DATA/XCode_Project/EditorYAML/build/EditorYAML.build/Debug/EditorYAML.build/DerivedSources -c /Volumes/DATA/XCode_Project/EditorYAML/EditorYAML_Prefix.pch -o /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-gmrmetbqolroqabaavureimmubgc/EditorYAML_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EditorYAML_Prefix-heeasgtywqldpdepysoosclztgvy/EditorYAML_Prefix.pch.pth EditorYAML_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app
+s328109686.702265
+e328109686.724389
+r1
+xTouch
+x/Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app
+lSLF07#2@71"Touch /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app328109686#328109686#0(0"0(0#0#0"8616249056#134"    cd /Volumes/DATA/XCode_Project/EditorYAML    /usr/bin/touch -c /Volumes/DATA/XCode_Project/EditorYAML/build/Debug/EditorYAML.app0#
+
